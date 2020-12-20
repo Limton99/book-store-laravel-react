@@ -7,6 +7,8 @@
   - прописать в терминале php artisan key:generate
   - прописать php artisan migrate --seed
   - запусить проект (php artisan serve)
+  
+  
 Для запуска frontend
 
   - cd book-store-client(в терминале)
