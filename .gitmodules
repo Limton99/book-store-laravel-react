@@ -1,0 +1,6 @@
+[submodule "backend-bookstore-laravel"]
+	path = backend-bookstore-laravel
+	url = https://github.com/Limton99/backend-bookstore-laravel
+[submodule "book-store-client"]
+	path = book-store-client
+	url = https://github.com/Limton99/book-store-client.git
